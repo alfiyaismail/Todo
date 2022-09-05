@@ -1,0 +1,23 @@
+.banner {
+    background-color:cornflowerBlue;
+    width:100%;
+    height:200px;
+    margin-bottom:50px;
+       }
+.banner-text {
+    top:15%;
+    left:46%;
+    position:absolute;
+    transform:transform;
+    font-family:serif;
+    font-style:Georgia;
+    font-size:50px;
+}
+.form-group{
+padding:12px;
+}
+.col-md-6{
+font-family:serif;
+font-style:Arial;
+top:45%;
+}
